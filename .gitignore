@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media
+static
+
+# Secret key
+*.key
+
+# Development
+*.sqlite3
+local_settings.py
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore Python environment
+venv/
+__pycache__/
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore Heroku deployment files
+*.pyc
+*.pyo
+.DS_Store
+.env
+/staticfiles/
+/static/
