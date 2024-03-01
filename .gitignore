@@ -36,6 +36,5 @@ Pipfile.lock
 *.pyc
 *.pyo
 .DS_Store
-.env
 /staticfiles/
 /static/
